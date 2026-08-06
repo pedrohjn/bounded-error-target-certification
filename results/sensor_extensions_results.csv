@@ -1,0 +1,121 @@
+experiment,case_name,rho,P_sys,T_sys_conditional
+heterogeneity,Homogeneous,1,0,NaN
+heterogeneity,Homogeneous,1.1,0,NaN
+heterogeneity,Homogeneous,1.2,0,NaN
+heterogeneity,Homogeneous,1.3,0,NaN
+heterogeneity,Homogeneous,1.4,0.0042,0.998214285714286
+heterogeneity,Homogeneous,1.5,0.0362,0.995994475138121
+heterogeneity,Homogeneous,1.6,0.1724,0.995577146171694
+heterogeneity,Homogeneous,1.7,0.413,0.993855932203393
+heterogeneity,Homogeneous,1.8,0.6812,0.992326042278328
+heterogeneity,Homogeneous,1.9,0.8936,0.990174574753796
+heterogeneity,Homogeneous,2,1,0.987234999999988
+heterogeneity,Homogeneous,2.1,1,0.983589999999989
+heterogeneity,Homogeneous,2.2,1,0.97968749999999
+heterogeneity,Homogeneous,2.3,1,0.976362499999993
+heterogeneity,Homogeneous,2.4,1,0.972469999999996
+heterogeneity,Mild heterogeneity,1,0,NaN
+heterogeneity,Mild heterogeneity,1.1,0,NaN
+heterogeneity,Mild heterogeneity,1.2,0,NaN
+heterogeneity,Mild heterogeneity,1.3,0,NaN
+heterogeneity,Mild heterogeneity,1.4,0,NaN
+heterogeneity,Mild heterogeneity,1.5,0.0046,0.995652173913044
+heterogeneity,Mild heterogeneity,1.6,0.028,0.995892857142857
+heterogeneity,Mild heterogeneity,1.7,0.1192,0.99314177852349
+heterogeneity,Mild heterogeneity,1.8,0.2664,0.991338213213216
+heterogeneity,Mild heterogeneity,1.9,0.4736,0.989099451013516
+heterogeneity,Mild heterogeneity,2,0.6764,0.987215405085746
+heterogeneity,Mild heterogeneity,2.1,0.8192,0.984515380859371
+heterogeneity,Mild heterogeneity,2.2,0.9216,0.981966145833327
+heterogeneity,Mild heterogeneity,2.3,0.9764,0.978735661614086
+heterogeneity,Mild heterogeneity,2.4,1,0.975382499999995
+heterogeneity,Strong heterogeneity,1,0,NaN
+heterogeneity,Strong heterogeneity,1.1,0,NaN
+heterogeneity,Strong heterogeneity,1.2,0,NaN
+heterogeneity,Strong heterogeneity,1.3,0,NaN
+heterogeneity,Strong heterogeneity,1.4,0,NaN
+heterogeneity,Strong heterogeneity,1.5,0,NaN
+heterogeneity,Strong heterogeneity,1.6,0,NaN
+heterogeneity,Strong heterogeneity,1.7,0,NaN
+heterogeneity,Strong heterogeneity,1.8,0.0022,0.9875
+heterogeneity,Strong heterogeneity,1.9,0.0134,0.988246268656716
+heterogeneity,Strong heterogeneity,2,0.0592,0.988133445945946
+heterogeneity,Strong heterogeneity,2.1,0.15,0.986066666666667
+heterogeneity,Strong heterogeneity,2.2,0.2872,0.984888579387189
+heterogeneity,Strong heterogeneity,2.3,0.476,0.982295168067228
+heterogeneity,Strong heterogeneity,2.4,0.6454,0.980484970560892
+heterogeneity,One degraded sensor,1,0,NaN
+heterogeneity,One degraded sensor,1.1,0,NaN
+heterogeneity,One degraded sensor,1.2,0,NaN
+heterogeneity,One degraded sensor,1.3,0,NaN
+heterogeneity,One degraded sensor,1.4,0,NaN
+heterogeneity,One degraded sensor,1.5,0,NaN
+heterogeneity,One degraded sensor,1.6,0.0076,0.996052631578948
+heterogeneity,One degraded sensor,1.7,0.0634,0.994321766561514
+heterogeneity,One degraded sensor,1.8,0.1986,0.992409365558914
+heterogeneity,One degraded sensor,1.9,0.3866,0.991211846870154
+heterogeneity,One degraded sensor,2,0.5712,0.988344712885153
+heterogeneity,One degraded sensor,2.1,0.6852,0.984825598365438
+heterogeneity,One degraded sensor,2.2,0.781,0.98180217669654
+heterogeneity,One degraded sensor,2.3,0.8574,0.978312339631441
+heterogeneity,One degraded sensor,2.4,0.916,0.975237445414845
+distribution,Center,1,0,NaN
+distribution,Center,1.1,0.0002,1
+distribution,Center,1.2,0.0066,1
+distribution,Center,1.3,0.065,0.999884615384615
+distribution,Center,1.4,0.267,0.99935393258427
+distribution,Center,1.5,0.541,0.997717190388169
+distribution,Center,1.6,0.7702,0.995332381199682
+distribution,Center,1.7,0.9022,0.992457326535125
+distribution,Center,1.8,0.9628,0.989621416701274
+distribution,Center,1.9,0.9888,0.986210558252413
+distribution,Center,2,1,0.982714999999987
+distribution,Center,2.1,1,0.979224999999991
+distribution,Center,2.2,1,0.976352499999993
+distribution,Center,2.3,1,0.973142499999996
+distribution,Center,2.4,1,0.970124999999999
+distribution,Uniform disk,1,0,NaN
+distribution,Uniform disk,1.1,0,NaN
+distribution,Uniform disk,1.2,0,NaN
+distribution,Uniform disk,1.3,0.0002,0.9875
+distribution,Uniform disk,1.4,0.0028,0.99375
+distribution,Uniform disk,1.5,0.0386,0.99669689119171
+distribution,Uniform disk,1.6,0.1702,0.995461222091658
+distribution,Uniform disk,1.7,0.4308,0.993947307335193
+distribution,Uniform disk,1.8,0.6954,0.992569025021566
+distribution,Uniform disk,1.9,0.896,0.990061383928563
+distribution,Uniform disk,2,1,0.987539999999989
+distribution,Uniform disk,2.1,1,0.983897499999989
+distribution,Uniform disk,2.2,1,0.979914999999991
+distribution,Uniform disk,2.3,1,0.976024999999993
+distribution,Uniform disk,2.4,1,0.972482499999997
+distribution,Boundary,1,0,NaN
+distribution,Boundary,1.1,0,NaN
+distribution,Boundary,1.2,0,NaN
+distribution,Boundary,1.3,0,NaN
+distribution,Boundary,1.4,0.0002,1
+distribution,Boundary,1.5,0.0074,0.989864864864865
+distribution,Boundary,1.6,0.044,0.990113636363636
+distribution,Boundary,1.7,0.1724,0.991429814385152
+distribution,Boundary,1.8,0.4354,0.991197749196145
+distribution,Boundary,1.9,0.7388,0.990806036816456
+distribution,Boundary,2,1,0.989334999999992
+distribution,Boundary,2.1,1,0.98505999999999
+distribution,Boundary,2.2,1,0.980837499999991
+distribution,Boundary,2.3,1,0.977289999999993
+distribution,Boundary,2.4,1,0.973694999999995
+distribution,Fixed magnitude,1,0,NaN
+distribution,Fixed magnitude,1.1,0,NaN
+distribution,Fixed magnitude,1.2,0,NaN
+distribution,Fixed magnitude,1.3,0,NaN
+distribution,Fixed magnitude,1.4,0,NaN
+distribution,Fixed magnitude,1.5,0.001,0.965
+distribution,Fixed magnitude,1.6,0.0056,0.977678571428572
+distribution,Fixed magnitude,1.7,0.0274,0.97801094890511
+distribution,Fixed magnitude,1.8,0.1068,0.979283707865167
+distribution,Fixed magnitude,1.9,0.234,0.980032051282054
+distribution,Fixed magnitude,2,1,0.991997499999995
+distribution,Fixed magnitude,2.1,1,0.987897499999994
+distribution,Fixed magnitude,2.2,1,0.983769999999993
+distribution,Fixed magnitude,2.3,1,0.979077499999993
+distribution,Fixed magnitude,2.4,1,0.975757499999994
